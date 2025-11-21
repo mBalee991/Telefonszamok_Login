@@ -1,0 +1,23 @@
+# Visual Studio
+.vs/
+bin/
+obj/
+Debug/
+Release/
+*.user
+*.suo
+*.cache
+*.log
+
+# Entity Developer temp files
+*.vsix
+*.tt
+*.dbmdl
+
+# NuGet
+packages/
+*.nupkg
+*.snupkg
+
+# Misc
+*.tmp
