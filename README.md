@@ -98,13 +98,13 @@ A táblák: `Helyseg`, `Szemely`, `Telefonszam`, megfelelő elsődleges és kül
 ---
 
 ## 📌 Kapcsolódó anyag
-Johanyák Zsolt Csaba: *Vizuális programozás – gyakorlati jegyzet*, EF és WPF példák.
-https://johanyak.hu/segedlet/vp/Vizualis_programozas_gyakorlati_jegyzet_VS_2019.pdf
+- Johanyák Zsolt Csaba: *Vizuális programozás – gyakorlati jegyzet*, EF és WPF példák.
+- https://johanyak.hu/segedlet/vp/Vizualis_programozas_gyakorlati_jegyzet_VS_2019.pdf
 ---
 
 ## Default Login
-Felhasználónév: admin
-Jelszó: admin
+- Felhasználónév: admin
+- Jelszó: admin
 
 ## Utolsó módosítás:
-2025. december 2. - 22:28
+- 2025/12/02 - 22:28
